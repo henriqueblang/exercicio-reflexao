@@ -2,6 +2,7 @@ package br.inatel.cdg.example;
 
 import br.inatel.cdg.annotation.reading.CustomAnnotation1;
 
+//Você deverá criar a CustomAnnotation1 como parte da solução
 public class ExampleClass1 {
 
 	@CustomAnnotation1(1)
