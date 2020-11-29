@@ -12,9 +12,6 @@ public class ExampleClass2 {
 	private int field5;
 	
 	@NumberToSum(6)
-	private int field6;
-	
-	@NumberToSum(7)
 	public void method2() {
 		System.out.println("Example Method With Annotation");
 	}

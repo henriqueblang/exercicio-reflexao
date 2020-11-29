@@ -1,6 +1,5 @@
 package br.inatel.cdg.annotation.reading;
 
-
 //Nessa classe você deverá implementar a sua solução
 //Adicionalmente você também deverá criar
 //a anotação NumberToSum como parte da solução

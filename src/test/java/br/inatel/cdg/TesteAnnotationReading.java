@@ -35,6 +35,6 @@ public class TesteAnnotationReading {
 		
 		int totalSum = aReader.getTotalSum();
 		
-		assertEquals(22, totalSum);
+		assertEquals(15, totalSum);
 	}
 }
